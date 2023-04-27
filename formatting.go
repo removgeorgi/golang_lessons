@@ -17,13 +17,6 @@ func paintNeeded(width float64, height float64) (float64, error) {
 
 }
 
-// func status(grade float64) string {
-// 	if grade < 60 {
-// 		return "failing"
-// 	}
-// 	return "passing"
-// }
-
 func main() {
 
 	var amount, total float64
