@@ -27,4 +27,5 @@ func main() {
 	} else {
 		fmt.Printf("%0.2f\n", quotient)
 	}
+
 }
