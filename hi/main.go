@@ -1,8 +1,6 @@
 package main
 
-import (
-	"golang_lessons/greeting"
-)
+import "greeting"
 
 func main() {
 	greeting.Hello()
