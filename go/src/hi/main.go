@@ -1,7 +1,7 @@
 package main
 
 import (
-	"golang_lessons/greeting"
+	"golang_lessons/go/src/greeting"
 )
 
 func main() {
